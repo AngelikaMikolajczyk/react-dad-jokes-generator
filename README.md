@@ -1,2 +1,3 @@
 # react-dad-jokes-generator
-Created with CodeSandbox
+
+Application from [Beginner JavaScript](https://beginnerjavascript.com/) course by WesBos rewritten in ReactJS
